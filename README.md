@@ -1,3 +1,3 @@
-# Project_test
+# Project_Test
 ## Subtitle
-tesr repo for TechMind course
+test repo for TechMind course
